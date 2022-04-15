@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body
+{
+    background-color: #EEF0F1;
+}
+header{
+    background-color: #6474FF;
+    padding: 30px;
+      
+}
+.button{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FFC000;
+    padding: 10px;
+    border-radius: 14px;
+    margin-top: 0;
+    margin-left: 1350px;
+    margin-right: 5px;
+    text-align: center;
+}
+.first-blok{
+    width: 50%;
+    margin-left: 380px;
+    position: relative;
+    bottom: 40px ;
+   
+   
+}
+.main_wrapper{
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+img{
+    border-radius: 50%;
+    background-color: #6474FF;
+    padding:5px;
+    height: 90px;
+    width: 90px;
+}
+.user-name{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 40px;
+}
+p, ul, a, h2, h5{
+    font-family: 'Roboto', sans-serif; 
+}
+.next-blok{
+    width: 50%;
+    margin-left: 380px;
+    bottom: 40px ;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 250px;  
+}
+.next2-blok{
+    width: 50%;
+    margin-left: 640px;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    bottom: 353px;
+}
+
+.next3-blok{
+    width: 50%;
+    margin-left: 1050px;
+    text-align: left;
+    font-size: 25px;
+    position: relative;
+    bottom: 643px;
+    
+  
+}
+
+.next_wrapper{
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 545px;
+
+}
+li{
+    
+    margin-right: 200px;
+   
+}
+footer{
+    background-color: #6474FF;
+    margin-top: 80px; 
+    padding: 20px 0;
+}
+h5{
+   font-weight: 100;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 200px;
+    display: inline-block;
+
+}
+.stile{
+    font-weight: lighter;
+}
+a{
+
+    color: #ffffff;
+}
+h2{
+    font-weight: 100;
+    color: #ffffff;
+    text-align: center;
+}
